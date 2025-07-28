@@ -15,3 +15,4 @@ print(f"a ia {a}")
 str_var = "test string"
 print(f"string length is {len(str_var)}")
 print(f"index of 's' is {str_var.index('s')}")
+
